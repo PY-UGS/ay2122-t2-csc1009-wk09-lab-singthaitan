@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RandomCharacterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-29T03:43:18" hostname="DESKTOP-JCBK96J" time="0.049">
+  <properties/>
+  <testcase name="getRandomLowerCaseLetter()" classname="RandomCharacterTest" time="0.029"/>
+  <testcase name="getRandomUpperCaseLetter()" classname="RandomCharacterTest" time="0.002"/>
+  <testcase name="testPrimeNumber()" classname="RandomCharacterTest" time="0.01"/>
+  <testcase name="getRandomDigitCharacter()" classname="RandomCharacterTest" time="0.003"/>
+  <testcase name="getRandomCharacter()" classname="RandomCharacterTest" time="0.001"/>
+  <system-out><![CDATA[4 is not a prime number.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
